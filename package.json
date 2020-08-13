@@ -1,0 +1,19 @@
+{
+  "name": "meditation-app-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvvishnuu/Basic-Meditation-App.git"
+  },
+  "author": "Vishnuu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvvishnuu/Basic-Meditation-App/issues"
+  },
+  "homepage": "https://github.com/cvvishnuu/Basic-Meditation-App#readme"
+}
